@@ -2,7 +2,7 @@ require 'require_all'
 require_all 'lib'
 
 class Commands
-    attr_accessor :robot, grid
+    attr_accessor :robot, :grid
 
     def initialize
         setup_game

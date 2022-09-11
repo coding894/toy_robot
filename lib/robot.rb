@@ -1,5 +1,5 @@
 class Robot
-    attr_accessor position_x, position_y, facing
+    attr_accessor :position_x, :position_y, :facing
 
     def initialize(position_x, position_y, facing) 
         @position_x = 0   
