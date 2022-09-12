@@ -1,5 +1,5 @@
 # Toy Robot Challenge
-## To view the toy robot game requirements, please view the PROBLEM.md file.
+ To view the toy robot game requirements, please view the PROBLEM.md file.
 
 ## Install and build
 To clone from Github please use: git@github.com:coding894/toy_robot.git
