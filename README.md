@@ -5,7 +5,7 @@
 To clone from Github please use: git@github.com:coding894/toy_robot.git
 
 ## Run the program
-Simply type: ruby start.rb to get started!
+The code isn't quite at the stage to run yet
 
 ## Run the tests
 Please type: bin/rspec
