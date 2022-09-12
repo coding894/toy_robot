@@ -4,6 +4,10 @@
 ## Install and build
 To clone from Github please use: git@github.com:coding894/toy_robot.git
 
+Dependencies: gem install bundler
+
+bundle install
+
 ## Run the program
 The code isn't quite at the stage to run yet
 
