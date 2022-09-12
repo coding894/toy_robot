@@ -1,16 +1,16 @@
 class Grid
-    attr_accessor :x_axis, :y_axis, 
+    attr_accessor :x_max, :y_max, 
   
     def initialize(x = 4, y = 4)
-      @x_axis = x_axis
-      @y_axis = y_axis
+      @x_max = x_max
+      @y_max = y_max
     end
 
-    def constraints (x_axis, y_axis)
-        if x_axis == 0..4
+    def constraints (x_max, y_max)
+        if x_max == 0..4
             true
         end
-        if y_axis == 0..4
+        if y_max == 0..4
             true
         end
     end
